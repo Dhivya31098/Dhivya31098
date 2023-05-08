@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 30px;
+}
+.purple-color {
+    color: #8845f4;
+}
+
+.half-width{
+    width:50%;
+    float:left;
+}
+.side-img{
+    width: 60%;
+    padding-left: 25%;
+}
+.primary-btn {
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.primary-btn:hover{
+background-color: black;
+color:white;
+}
+h1{
+    font-size: xx-large;
+}
+.container{
+    padding-left:5%;
+    display: inline-block;
+}
+p{
+    font-size: x-large;
+}
+.projects {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.projects-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+}
+
